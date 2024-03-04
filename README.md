@@ -1,0 +1,2 @@
+# Pracownia_testowania_i_dokumentowania_aplikacji
+Repo do pracowni testowania i dokumentowania aplikacji
